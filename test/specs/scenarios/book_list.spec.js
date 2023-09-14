@@ -32,7 +32,7 @@ describe('BookStore', () => {
     })
 
     it('Cant add list of books when not login yet', async () => {
-        const response = await Bookstore.addListOfBooks('', {
+        const response = await Bookstore.addListOfBooks('invalid_token', {
             "userId": userId,
             "collectionOfIsbns": [
                 {
