@@ -19,8 +19,6 @@ npm install
 ## Usage
 
 ```bash
-import foobar
-
 # run all specs
 npm run wdio
 
