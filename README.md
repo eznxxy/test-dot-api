@@ -1,7 +1,5 @@
 # API Automation using webdriverio
 
-Disclaimer Proyek ini dibuat hanya untuk memenuhi test online DOT Indonesia dan sejauh yang saya tau untuk saat ini [webdriver.io](https://webdriver.io/) tidak diperuntukan untuk API automation [(reference)](https://github.com/webdriverio/webdriverio/discussions/7187) karena dia membutuhkan capabilities agar bisa berjalan tapi karena di soal diminta untuk menggunakan webdriver.io jadi saya akali dengan menambahkan option headless pada capabilities yang dibutuhkan oleh webdriverio
-
 ## Prerequisite
 
 Nodejs stable version
