@@ -42,6 +42,3 @@ DELETE /BookStore/v1/Books
 
 User digenerate secara otomatis dan disimpan ke dalam log/registeredUser.txt setelah testing selesai.
 
-## Help
-
-Bisa hubungi saya via whatsapp maupun email jika terjadi kendala dalam instalasi / menjalankan programnya, Terimakasih ^^
